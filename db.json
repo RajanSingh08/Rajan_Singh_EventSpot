@@ -1,0 +1,194 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Wedding Event Planning",
+      "content": "Organized a memorable wedding event with venue decoration, catering services, and live entertainment. Managed vendor coordination and ensured seamless execution.",
+      "skills": [
+        "Event Coordination",
+        "Vendor Management",
+        "Budgeting",
+        "Decoration Design"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Corporate Conference Management",
+      "content": "Managed a corporate conference for 500 attendees, including setup of presentation areas, attendee registration, and post-event feedback collection.",
+      "skills": [
+        "Event Logistics",
+        "Attendee Management",
+        "Audio/Visual Setup",
+        "Feedback Analysis"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Birthday Party Planning",
+      "content": "Planned a themed birthday party with customized decor, catering, and entertainment for children and adults. Ensured a fun and engaging experience for all guests.",
+      "skills": [
+        "Theme Decoration",
+        "Entertainment Coordination",
+        "Food and Beverage Selection",
+        "Guest Engagement"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Music Festival Organization",
+      "content": "Organized a music festival with multiple stages, artist line-up scheduling, ticketing, and security management. Attracted over 2000 attendees and coordinated with local vendors.",
+      "skills": [
+        "Artist Coordination",
+        "Security Management",
+        "Ticketing",
+        "Vendor Management"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Charity Gala Event",
+      "content": "Hosted a charity gala event, including event planning, silent auction setup, guest list management, and coordination of fundraising activities.",
+      "skills": [
+        "Fundraising",
+        "Auction Management",
+        "Guest Coordination",
+        "Event Marketing"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Product Launch Event",
+      "content": "Managed a product launch event with press invitations, product demonstrations, and live streaming for an online audience.",
+      "skills": [
+        "Press Relations",
+        "Product Demo Setup",
+        "Live Streaming",
+        "Brand Promotion"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "id": 1,
+      "title": "Exceptional Service",
+      "content": "The event was beautifully managed, and every detail was taken care of. Highly recommended!",
+      "user": {
+        "name": "John Doe",
+        "role": "Wedding Client"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Professional and Organized",
+      "content": "The corporate event was handled with professionalism, and everything was organized perfectly. Will definitely work with them again.",
+      "user": {
+        "name": "Lisa Brown",
+        "role": "Corporate HR Manager"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Creative and Fun",
+      "content": "They turned our ideas into an amazing reality for our party. The team was creative and made it a memorable event for everyone.",
+      "user": {
+        "name": "Tom Carter",
+        "role": "Birthday Party Client"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Great Communication",
+      "content": "Their team kept us updated throughout the event planning process, ensuring a stress-free experience.",
+      "user": {
+        "name": "Emily Parker",
+        "role": "Charity Gala Organizer"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Event Planning",
+      "list": [
+        {
+          "name": "Budgeting",
+          "level": 90
+        },
+        {
+          "name": "Vendor Coordination",
+          "level": 85
+        },
+        {
+          "name": "Logistics",
+          "level": 80
+        },
+        {
+          "name": "Decoration Design",
+          "level": 75
+        },
+        {
+          "name": "Guest Management",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Languages",
+      "list": [
+        {
+          "name": "English",
+          "level": 90
+        },
+        {
+          "name": "Spanish",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Technical Skills",
+      "list": [
+        {
+          "name": "AV Setup",
+          "level": 90
+        },
+        {
+          "name": "Live Streaming",
+          "level": 85
+        }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "name": "Alice",
+      "email": "alice@gmail.com",
+      "subject": "Wedding Planning Inquiry",
+      "message": "I'm interested in booking your services for my wedding. Please send more information.",
+      "id": 1
+    },
+    {
+      "name": "Bob",
+      "email": "bob@gmail.com",
+      "subject": "Corporate Event Planning",
+      "message": "We need help organizing our annual conference. Let’s discuss this further.",
+      "id": 2
+    },
+    {
+      "name": "Charlie",
+      "email": "charlie@gmail.com",
+      "subject": "Birthday Party Services",
+      "message": "Do you offer services for children's birthday parties? I'd like to know more.",
+      "id": 3
+    },
+    {
+      "name": "Diana",
+      "email": "diana@gmail.com",
+      "subject": "Charity Event Inquiry",
+      "message": "We are hosting a charity event and need an event planner. Please get in touch.",
+      "id": 4
+    }
+  ]
+}
